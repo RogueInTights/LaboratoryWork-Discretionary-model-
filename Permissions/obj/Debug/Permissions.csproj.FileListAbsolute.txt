@@ -1,0 +1,10 @@
+D:\Учеба\Методы оценки и защиты информации\Лабораторная работа #2\Permissions\bin\Debug\Permissions.exe.config
+D:\Учеба\Методы оценки и защиты информации\Лабораторная работа #2\Permissions\bin\Debug\Permissions.exe
+D:\Учеба\Методы оценки и защиты информации\Лабораторная работа #2\Permissions\bin\Debug\Permissions.pdb
+D:\Учеба\Методы оценки и защиты информации\Лабораторная работа #2\Permissions\obj\Debug\Permissions.csprojResolveAssemblyReference.cache
+D:\Учеба\Методы оценки и защиты информации\Лабораторная работа #2\Permissions\obj\Debug\Permissions.loginForm.resources
+D:\Учеба\Методы оценки и защиты информации\Лабораторная работа #2\Permissions\obj\Debug\Permissions.Properties.Resources.resources
+D:\Учеба\Методы оценки и защиты информации\Лабораторная работа #2\Permissions\obj\Debug\Permissions.csproj.GenerateResource.Cache
+D:\Учеба\Методы оценки и защиты информации\Лабораторная работа #2\Permissions\obj\Debug\Permissions.exe
+D:\Учеба\Методы оценки и защиты информации\Лабораторная работа #2\Permissions\obj\Debug\Permissions.pdb
+D:\Учеба\Методы оценки и защиты информации\Лабораторная работа #2\Permissions\obj\Debug\Permissions.MainForm.resources
